@@ -1,0 +1,22 @@
+# Core Framework
+chainlit==1.0.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+aiofiles==23.2.1
+uvicorn==0.24.0
+
+# Browser Automation
+playwright==1.40.0
+
+# AI/ML
+google-generativeai==0.3.2
+groq==0.4.1
+
+# Web Scraping & HTTP
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Document Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.0
+Pillow==10.1.0
